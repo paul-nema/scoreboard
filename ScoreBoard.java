@@ -13,6 +13,7 @@ public class ScoreBoard {
         System.out.println( "To exit enter: Game Over" );
         System.out.println( "For help enter: help" );
         System.out.println( "List teams in game enter: teams" );
+        System.out.println( "NOTE: All source is maintained with git" );
     }
 
     public static void Usage() {
